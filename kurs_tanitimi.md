@@ -80,7 +80,8 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Kotlin ve Java ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Kursumuzun toplam ücreti KDV dahil __21.600__ TL’dir(Peşin ödemede __19.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __19.500__ TL’dir (peşin ödemede __17.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil __24.000__ TL’dir(Peşin ödemede __21.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __21.000__ TL’dir (peşin ödemede __19.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+
 ## Eğitim Programına Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0pce2uqTgqGd1z618NtfQ_hWTJcOeB_H6_#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
