@@ -1,4 +1,4 @@
-# Online-Android-Programlama-Kotlin-ve-Java-ile-11-Mayıs-2024
+# Online-Android-Programlama-Kotlin-ve-Java-ile-8-Haziran-2024
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
 + Kursun __8 Haziran 2024 Cumartesi__ günü başlayacaktır.
