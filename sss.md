@@ -1,4 +1,4 @@
-# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-29-Haziran-2024– Sık Sorulan Sorular
+# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-10-Ağustos-2024– Sık Sorulan Sorular
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Android Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
